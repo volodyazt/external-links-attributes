@@ -14,7 +14,6 @@ if (isset($_POST['submit'])) {
 	$ela->insertDb();
 }
 $ela->runEla();
-$post_types = get_post_types();
 
 class ela {
 	public function __construct() {
