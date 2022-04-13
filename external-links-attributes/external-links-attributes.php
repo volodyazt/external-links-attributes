@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: External Links Attributes
- * Description: Adds attributes to links and displays custom content
+ * Description: Adds attributes to external links and displays custom content
  * Author:      Vashchenko Vladimir
  */
 
